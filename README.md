@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shishir-dwi/shishir-dwi/main/assets/header.gif" alt="Developer animating" width="800"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer animating" width="300"/>
 
 # 💫 Hi 👋, I'm Rupam Roy Choudhury
 
@@ -86,5 +86,8 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
 <br><br>
+
+### 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=rupamroychoudhury2008-star&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed" />
 
 </div>
