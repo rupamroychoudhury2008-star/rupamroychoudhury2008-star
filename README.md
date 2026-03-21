@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer animating" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding" width="400"/>
 
 # 💫 Hi 👋, I'm Rupam Roy Choudhury
 
@@ -11,7 +11,11 @@
 
 </div>
 
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br>
+
+<img align="right" src="https://raw.githubusercontent.com/shihab2014/shihab2014/main/assets/earth.gif" alt="3D Spinning Earth" width="350"/>
 
 * 🔭 **I’m currently working on:**
   Building advanced UI systems, AI-based personality analyzers, and exploring system-level projects like simulations & full-stack platforms
@@ -37,6 +41,8 @@
 * ⚡ **Fun fact:**
   I don’t just use technology… I try to *understand and bend it* 🚀
 
+<br clear="both">
+
 <div align="center">
   
 🔥 *Currently on a mission to level up — mentally, physically, and technically.*
@@ -46,11 +52,15 @@
 
 </div>
 
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br>
 
 <div align="center">
 
 # 💻 Tech Stack:
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="3D Laptop" width="60" height="60" /> <br><br>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
 
@@ -64,7 +74,9 @@
 
 </div>
 
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br>
 
 <div align="center">
 
@@ -86,8 +98,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
 <br><br>
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=rupamroychoudhury2008-star&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed" />
 
 </div>
