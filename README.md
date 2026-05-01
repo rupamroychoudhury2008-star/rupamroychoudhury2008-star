@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding" width="400" style="border-radius: 10px; margin-bottom: 15px;"/>
 
-# 💫 Hi 👋, I'm Rupam Roy Choudhury
+# 💫 Hi 👋, I'm Rupam Roy Choudhary
 
 **A passionate Developer ⚡ | Future System Builder | AI + DevOps Enthusiast from India 🇮🇳**
 
