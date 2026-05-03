@@ -48,10 +48,10 @@
 <div align="center">
   <p>🔥 <i>Currently on a mission to level up — mentally, physically, and technically.</i></p>
   
-  <a href="https://instagram.com/rupam_roy_____"><img src="https://img.shields.io/badge/Instagram-00b4d8?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/rupam-roy-choudhary-5287a23a1"><img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/@ExplainedR"><img src="https://img.shields.io/badge/X-03045e?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="mailto:rupamroychoudhury2008@gmail.com"><img src="https://img.shields.io/badge/Email-00ffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
+  <a href="https://instagram.com/rupam_roy_____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/rupam-roy-choudhary-5287a23a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/@ExplainedR"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=X&logoColor=white" alt="X"></a>
+  <a href="mailto:rupamroychoudhury2008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 <div align="center">
@@ -186,7 +186,7 @@
 <br>
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupamroychoudhury2008-star&bg_color=0b132b&color=48cae4&line=00ffff&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupamroychoudhury2008-star&bg_color=1A1A2E&color=FF007F&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%"/>
 
 <br><br>
 
