@@ -6,6 +6,9 @@
 
 **A passionate Developer ⚡ | Future System Builder | AI + DevOps Enthusiast from India 🇮🇳**
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E4405F&center=true&vCenter=true&width=600&lines=Building+advanced+UI+systems...;Exploring+AI+%2B+DevOps...;Scaling+complex+architectures...;Turning+coffee+into+code!+%E2%98%95" alt="Typing SVG" /></a>
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=rupamroychoudhury2008-star&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <br><br>
@@ -138,6 +141,13 @@
 ## 📊 Dashboard & Stats
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rupamroychoudhury2008-star&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+  </a>
+</div>
+<br>
+
+<div align="center">
 <table width="100%" border="0" style="border: none;">
   <tr>
     <td align="center" width="50%">
@@ -161,6 +171,11 @@
 
 <br>
 
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupamroychoudhury2008-star&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%"/>
+
+<br><br>
+
 ### 🐍 Commits Eating the Code
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
@@ -168,5 +183,8 @@
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+
+<br><br>
+<img src="https://raw.githubusercontent.com/trilokia/trilokia/379277808c61ef204768a61cb5d69c2844caa281/bottom_header.svg" alt="Animated Footer" width="100%"/>
 
 </div>
