@@ -190,7 +190,7 @@
 
 <br><br>
 
-### 🐍 Commits Eating the Code
+### 🐍 Hunger Games
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 <br><br>
