@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding" width="300" style="border-radius: 10px; margin-bottom: 15px; margin-top: -50px; position: relative; z-index: 10;"/>
 
@@ -8,17 +8,17 @@
 
 **A passionate Developer ⚡ | Future System Builder | AI + DevOps Enthusiast from India 🇮🇳**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E4405F&center=true&vCenter=true&width=600&lines=Building+advanced+UI+systems...;Exploring+AI+%2B+DevOps...;Scaling+complex+architectures...;Turning+coffee+into+code!+%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+advanced+UI+systems...;Exploring+AI+%2B+DevOps...;Scaling+complex+architectures...;Turning+coffee+into+code!+%E2%98%95" alt="Typing SVG" /></a>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rupamroychoudhury2008-star&label=Profile%20Views&color=0e75b6&style=flat&logo=github" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rupamroychoudhury2008-star&label=Profile%20Views&color=00b4d8&style=flat&logo=github" alt="Profile Views" />
 
 <br><br>
 ✉️ **[rupamroychoudhury2008@gmail.com](mailto:rupamroychoudhury2008@gmail.com)** <br>
 *For Collaboration / Projects / Tech Talks* 🚀
 
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=4" width="80%">
 <br>
 
 </div>
@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <img src="https://raw.githubusercontent.com/shihab2014/shihab2014/main/assets/earth.gif" alt="3D Spinning Earth" width="100%"/>
+      <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Coding" width="100%"/>
     </td>
   </tr>
 </table>
@@ -48,14 +48,14 @@
 <div align="center">
   <p>🔥 <i>Currently on a mission to level up — mentally, physically, and technically.</i></p>
   
-  <a href="https://instagram.com/rupam_roy_____"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/rupam-roy-choudhary-5287a23a1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/@ExplainedR"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="mailto:rupamroychoudhury2008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/rupam_roy_____"><img src="https://img.shields.io/badge/Instagram-00b4d8?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/rupam-roy-choudhary-5287a23a1"><img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/@ExplainedR"><img src="https://img.shields.io/badge/X-03045e?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+  <a href="mailto:rupamroychoudhury2008@gmail.com"><img src="https://img.shields.io/badge/Email-00ffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=4" width="80%">
 </div>
 
 ## 🚀 Featured Endeavors
@@ -74,7 +74,7 @@
 </table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=4" width="80%">
 </div>
 
 ## 💻 Tech Stack & Core Competencies
@@ -149,14 +149,14 @@
 </table>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" style="margin-top: 20px;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=4" width="80%" style="margin-top: 20px;">
 </div>
 
 ## 📊 Dashboard & Stats
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rupamroychoudhury2008-star&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rupamroychoudhury2008-star&theme=ocean&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
   </a>
 </div>
 <br>
@@ -165,15 +165,15 @@
 <table width="100%" border="0" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rupamroychoudhury2008-star&theme=shadow_red&hide_border=false&show_icons=true&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rupamroychoudhury2008-star&bg_color=0b132b&title_color=00ffff&text_color=48cae4&icon_color=00b4d8&border_color=0077b6&hide_border=false&show_icons=true&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=rupamroychoudhury2008-star&theme=shadow-red&hide_border=false" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=rupamroychoudhury2008-star&background=0b132b&ring=00ffff&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=48cae4&sideLabels=48cae4&dates=48cae4&border=0077b6&hide_border=false" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupamroychoudhury2008-star&theme=shadow_red&hide_border=false&layout=compact&count_private=true&langs_count=6&v=2" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupamroychoudhury2008-star&bg_color=0b132b&title_color=00ffff&text_color=48cae4&border_color=0077b6&hide_border=false&layout=compact&count_private=true&langs_count=6&v=2" alt="Top Languages" width="100%" />
     </td>
     <td align="center" width="50%">
       <a href="https://leetcode.com/rupam654_">
@@ -186,7 +186,7 @@
 <br>
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupamroychoudhury2008-star&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupamroychoudhury2008-star&bg_color=0b132b&color=48cae4&line=00ffff&point=ffffff&hide_border=true" alt="Activity Graph" width="100%"/>
 
 <br><br>
 
@@ -198,15 +198,15 @@
 <table width="100%" border="0" style="border: none;">
   <tr>
     <td align="center" width="50%">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="100%"/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0b132b&title_color=00ffff&text_color=48cae4&icon_color=00b4d8" alt="Quote" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke Card" width="100%"/>
+      <img src="https://readme-jokes.vercel.app/api?bg_color=0b132b&title_color=00ffff&text_color=48cae4&icon_color=00b4d8" alt="Joke Card" width="100%"/>
     </td>
   </tr>
 </table>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Animated Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" alt="Animated Footer" width="100%"/>
 
 </div>
